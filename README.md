@@ -2,8 +2,6 @@
 ***Selamlar,*** 
  burayı bulduğuna göre JAVA diline ve  yazılım dillerine merakın var demektir. O zaman hoşgeldin. Sevgili dostum, ben genel olarak JAVA eğitimi aldığım dönemde aldığım notları ve yaptığım alıştırmaları bu bölümde paylaşıyor olacağım. Umarım işine yarayan bilgilere yer vermiş olurum. Kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir kişiyim. Sormak istediğiniz yardım almak istediğiniz bir konu olursa iletişim adresimlerim ile bana ulaşabilirsiniz. Sevgi ile kalın.. 
 
-Aşağıda bana sıkça sorulmuş sorulara bir göz atarak başlamanı öneririm, onun altında kapalı menüler halinde birçok kaynak var, her birine bir göz at.
-
 Aramıza hoş geldin ve görüşürüz!
 
 -Goktug Unver     
