@@ -33,7 +33,7 @@ Yeni baslayan arkadaslar, evet farkindayim ilk bakista kafa karistirici gelebili
 
 ### Ilkel (Primitive data types)
 
-![ilkel veri tipleri](google.com/img.png)	
+![ilkel veri tipleri](https://i.hizliresim.com/iznldp.jpg)	
 
 ### Sayilar 
 Ilkel veri tipleri kendi içerisinde iki gruba ayrilir. 
@@ -43,5 +43,4 @@ Ilkel veri tipleri kendi içerisinde iki gruba ayrilir.
 - Ondalikli Sayilar: 'Float' , 'double' , 'char'
 
 
-|Veri Tipi |Boyut |Açiklama|
-|byte |1 byte|Stores whole numbers from -128 to 127|
+
