@@ -43,4 +43,5 @@ Ilkel veri tipleri kendi içerisinde iki gruba ayrilir.
 - Ondalikli Sayilar: 'Float' , 'double' , 'char'
 
 
-
+---
+_Bu içerik Goktug Unver tarafından hazırlanmıştır. Alıntı yaparak paylaşırsanız sevinirim._
