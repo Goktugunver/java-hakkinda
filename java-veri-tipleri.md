@@ -42,8 +42,6 @@ Ilkel veri tipleri kendi içerisinde iki gruba ayrilir.
 
 - Ondalikli Sayilar: 'Float' , 'double' , 'char'
 
-v|Veri Tipi	|Boyut	|Açiklama|
-|byte	 |1 byte|Stores whole numbers from -128 to 127|
 
 |Veri Tipi |Boyut |Açiklama|
 |byte |1 byte|Stores whole numbers from -128 to 127|
