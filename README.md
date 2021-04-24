@@ -1,5 +1,5 @@
 <!--Satırların sonundaki "\" işareti bir alt satıra geçirmek için kullanılıyor. Kullanmazsanız linkler birbirine girebilir. -->
-*** Selamlar, *** 
+***Selamlar,*** 
 
 ## Goktug Unver İletişim Bilgileri
 
