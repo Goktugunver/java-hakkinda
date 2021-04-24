@@ -1,9 +1,9 @@
 ### JAVA dilinde veri tipleri ve degiskenleri 
-Bu sayfada Veri tipleri ve degiskenlerden bahsedecegiz. Örnek kodlar ile pekistirmeye çalisacagim. 
+Bu sayfada Veri tipleri ve degiskenlerden bahsedecegiz. Ã–rnek kodlar ile pekistirmeye Ã§alisacagim. 
 
 ---
 
-Nesne yönelimli programlama dillerinde, genel olarak her sinif bir veri tipidir. Kulanilan bu tipler verileri tutmak, saklamak için kullanilir. Kullanilan veri tipine göre bellekte yer ayrilir. Java’da veri tipleri 3 gruba ayrilir.
+Nesne yÃ¶nelimli programlama dillerinde, genel olarak her sinif bir veri tipidir. Kulanilan bu tipler verileri tutmak, saklamak iÃ§in kullanilir. Kullanilan veri tipine gÃ¶re bellekte yer ayrilir. Javaâ€™da veri tipleri 3 gruba ayrilir.
 
     int myNum = 5;               // Integer (whole number)
 	loat myFloatNum = 5.99f;    // Floating point number
@@ -12,7 +12,7 @@ Nesne yönelimli programlama dillerinde, genel olarak her sinif bir veri tipidir.
 	boolean myBool = true;       // Boolean
 	String myText = "Hello";     // String
 
-Yeni baslayan arkadaslar, evet farkindayim ilk bakista kafa karistirici gelebilir lakin, kafa karisikliklarini gidermek için buradasiniz unutmayin. 
+Yeni baslayan arkadaslar, evet farkindayim ilk bakista kafa karistirici gelebilir lakin, kafa karisikliklarini gidermek iÃ§in buradasiniz unutmayin. 
 
 
 
@@ -31,21 +31,12 @@ Yeni baslayan arkadaslar, evet farkindayim ilk bakista kafa karistirici gelebili
 	
 	
 
-##Ilkel (Primitive data types)
+### Ilkel (Primitive data types)
 
-  
-|Veri Tipi	|Boyut	|Açiklama |
-|byte	 |1 byte	|Stores whole numbers from -128 to 127													|
-|short	 |2 bytes	|Stores whole numbers from -32,768 to 32,767											|
-|int	 |4 bytes	|Stores whole numbers from -2,147,483,648 to 2,147,483,647								|
-|long	 |8 bytes	|Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807		|
-|float	 |4 bytes	|Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits				|
-|double	 |8 bytes	|Stores fractional numbers. Sufficient for storing 15 decimal digits					|
-|boolean |1 bit		|Stores true or false values															|
-|char	 |2 bytes	|Stores a single character/letter or ASCII values 										|	
+![ilkel veri tipleri](google.com/img.png)	
 
-##Sayilar 
-Ilkel veri tipleri kendi içerisinde iki gruba ayrilir. 
+### Sayilar 
+Ilkel veri tipleri kendi iÃ§erisinde iki gruba ayrilir. 
 
 - Tam Sayilar : 'byte', 'short', 'int', 'long'
 
